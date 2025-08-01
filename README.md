@@ -21,20 +21,20 @@ A simple command-line calculator built with Python that performs basic arithmeti
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/JanetJepkosgei/Calculator_App.git
+git clone https://github.com/JanetJepkosgei/CALCULATOR.git
 ```
 2. Navigate to the project folder:
 
 ```bash
-cd Calculator_App
+cd CALCULATOR
 ```
 Run the script:
 
 ```bash
-python Calculator_App.py
+python Calculator.py
 ```
 
-Make sure you're in the same directory as Calculator_App.py.
+Make sure you're in the same directory as Calculator.py.
 
 3. Example
 
@@ -43,6 +43,4 @@ Enter the first number: 12
 Enter Operation(+,-,*,/): *
 Enter the second number: 23
 12.0 * 23.0 = 276.0
-
-
 ```
